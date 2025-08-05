@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=AWS&logoColor=white" />
         <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-430098?logo=mongodb&logoColor=white" />
     </td>
@@ -98,7 +98,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/varada-sandeep-a72446260">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sandeepvarada4@gmail.com">
