@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Sandeep 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=CSE%20Student%20%F0%9F%8E%93%20%7C%20Freelancer%20%F0%9F%92%BC%3BBuilding%20IoT%20and%20AI%20Solutions%20%F0%9F%A4%96%3BLet%27s%20Create%20Something%20Awesome%20%F0%9F%9A%80" alt="Typing SVG" />
+  <div style="height: 100px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=CSE+Student+%F0%9F%8E%93+%7C+Freelancer+%F0%9F%92%BC;Building+IoT+and+AI+Solutions+%F0%9F%A4%96;Let's+Create+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  </div>
 </p>
+
 
 
 </br>
