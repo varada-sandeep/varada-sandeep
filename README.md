@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Sandeep 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=CSE+Student+%F0%9F%8E%93+%7C+Freelancer+%F0%9F%92%BC;Building+IoT+and+AI+Solutions+%F0%9F%A4%96;Let's+Create+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=CSE+Student+%F0%9F%8E%93+%7C+Freelancer+%F0%9F%92%BC;Building+IoT+and+AI+Solutions+%F0%9F%A4%96;Let's+Create+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" /><
 </p>
 
-</br>
+<br>
 ---
 
 ### ✨ About Me
