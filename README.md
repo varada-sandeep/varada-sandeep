@@ -98,7 +98,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/varada-sandeep-a72446260">
+  <a href="https://www.linkedin.com/in/varada-sandeep-a72446260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sandeepvarada4@gmail.com">
